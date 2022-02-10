@@ -13,11 +13,11 @@
     <mask>*.*</mask>
     <mask>*.less</mask>
     <mask>*.js</mask>
-    <mask>*.twig</mask>
     <mask>*.scss</mask>
     <mask>*.tpl</mask>
     <mask>*.xml</mask>
     <mask>*.php</mask>
     <mask>*.vue</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
