@@ -4,4 +4,10 @@
       <option name="INDENT_SIZE" value="6" />
     </indentOptions>
   </codeStyleSettings>
+  <codeStyleSettings language="PHP">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="10" />
+      <option name="TAB_SIZE" value="10" />
+    </indentOptions>
+  </codeStyleSettings>
 </code_scheme>
