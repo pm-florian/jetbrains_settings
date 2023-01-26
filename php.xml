@@ -1,7 +1,4 @@
 <application>
-  <component name="MessDetector">
-    <phpmd_settings_migrated />
-  </component>
   <component name="PhpCodeSniffer">
     <phpcs_settings_migrated />
   </component>
